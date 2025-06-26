@@ -60,6 +60,6 @@ Performance was acceptable across all parameters
 - **Internship Type**: AICTE Virtual Internship - Edunet Foundation
 - **Sponsor**: Shell  
 - **Duration**: June 2025 (1 month)  
-- **Focus Area**: Machine Learning in Environmental Monitoring  
+- **Focus Area**: Machine Learning in Environmental Monitoring.  
 
 ---
